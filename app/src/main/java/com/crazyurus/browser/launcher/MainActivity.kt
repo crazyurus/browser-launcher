@@ -1,4 +1,4 @@
-package cn.crazyurus.browser.launcher
+package com.crazyurus.browser.launcher
 
 import android.content.ComponentName
 import android.content.Intent

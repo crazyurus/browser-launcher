@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "cn.crazyurus.browser.launcher"
+    namespace = "com.crazyurus.browser.launcher"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "cn.crazyurus.browser.launcher"
+        applicationId = "com.crazyurus.browser.launcher"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
